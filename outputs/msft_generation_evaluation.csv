@@ -1,0 +1,9 @@
+Category,Status,Answer Generated,Evidence Count,Citation Count,Valid Citations,Invalid Citations,Citation Precision
+Revenue,answered,True,5,1,1,0,1.0
+Profitability,answered,True,5,2,2,0,1.0
+EPS,answered,True,5,1,1,0,1.0
+Balance Sheet,answered,True,5,2,2,0,1.0
+Debt and Cash,answered,True,5,2,2,0,1.0
+Cash Flow,answered,True,5,1,1,0,1.0
+Ratios,answered,True,5,4,4,0,1.0
+Historical Performance,answered,True,5,2,2,0,1.0

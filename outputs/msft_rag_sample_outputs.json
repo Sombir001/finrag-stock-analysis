@@ -1,0 +1,1010 @@
+[
+  {
+    "question": "How has Microsoft's revenue changed over time?",
+    "answer": "Based on the provided financial evidence, Microsoft's revenue has increased across each fiscal period from 2023 through 2026 [MSFT_revenue_growth_001].\n\n### Factual Observations\n* **Fiscal period ending 2023-06-30:** Revenue was $211.91 billion (revenue growth is not available for this period) [MSFT_revenue_growth_001].\n* **Fiscal period ending 2024-06-30:** Revenue increased to $245.12 billion, representing a revenue growth rate of 15.67% [MSFT_revenue_growth_001].\n* **Fiscal period ending 2025-06-30:** Revenue increased to $281.72 billion, representing a revenue growth rate of 14.93% [MSFT_revenue_growth_001].\n* **Fiscal period ending 2026-06-30:** Revenue increased to $331.84 billion, representing a revenue growth rate of 17.79% [MSFT_revenue_growth_001].\n\n### Interpretation\n* **Trend Analysis:** Microsoft experienced continuous upward momentum in total annual revenue over the four-year span from 2023 to 2026 [MSFT_revenue_growth_001]. While year-over-year revenue growth dipped slightly from 15.67% in 2024 to 14.93% in 2025, it accelerated to 17.79% by the fiscal period ending 2026 [MSFT_revenue_growth_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.6386932134628296,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.582999587059021,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.570868730545044,
+        "vector_id": 4,
+        "chunk_id": "MSFT_earnings_001",
+        "title": "Earnings and EPS",
+        "category": "earnings",
+        "source": "Yahoo Finance",
+        "content": "Earnings and EPS Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Net Income: $72.36 billion\n- Basic EPS: 9.72\n- Diluted EPS: 9.68\n- Diluted EPS Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Net Income: $88.14 billion\n- Basic EPS: 11.86\n- Diluted EPS: 11.80\n- Diluted EPS Growth: 21.90%\n\nFiscal period ending 2025-06-30:\n- Net Income: $101.83 billion\n- Basic EPS: 13.70\n- Diluted EPS: 13.64\n- Diluted EPS Growth: 15.59%\n\nFiscal period ending 2026-06-30:\n- Net Income: $133.75 billion\n- Basic EPS: 18.00\n- Diluted EPS: 17.95\n- Diluted EPS Growth: 31.60%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Earnings and EPS",
+          "category": "earnings",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_earnings_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5543344020843506,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5237457156181335,
+        "vector_id": 7,
+        "chunk_id": "MSFT_cash_flow_001",
+        "title": "Operating and Free Cash Flow",
+        "category": "cash_flow",
+        "source": "Yahoo Finance",
+        "content": "Cash Flow Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Operating Cash Flow: $87.58 billion\n- Capital Expenditure: $-28.11 billion\n- Free Cash Flow: $59.48 billion\n- Operating Cash Flow Margin: 41.33%\n- Free Cash Flow Margin: 28.07%\n- Cash Conversion Ratio: 1.21\n\nFiscal period ending 2024-06-30:\n- Operating Cash Flow: $118.55 billion\n- Capital Expenditure: $-44.48 billion\n- Free Cash Flow: $74.07 billion\n- Operating Cash Flow Margin: 48.36%\n- Free Cash Flow Margin: 30.22%\n- Cash Conversion Ratio: 1.35\n\nFiscal period ending 2025-06-30:\n- Operating Cash Flow: $136.16 billion\n- Capital Expenditure: $-64.55 billion\n- Free Cash Flow: $71.61 billion\n- Operating Cash Flow Margin: 48.33%\n- Free Cash Flow Margin: 25.42%\n- Cash Conversion Ratio: 1.34\n\nFiscal period ending 2026-06-30:\n- Operating Cash Flow: $182.94 billion\n- Capital Expenditure: $-115.95 billion\n- Free Cash Flow: $66.99 billion\n- Operating Cash Flow Margin: 55.13%\n- Free Cash Flow Margin: 20.19%\n- Cash Conversion Ratio: 1.37",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Operating and Free Cash Flow",
+          "category": "cash_flow",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_cash_flow_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "How profitable is Microsoft? Analyze its operating margin, net profit margin and profitability trend.",
+    "answer": "Based on the retrieved financial evidence, here is an analysis of Microsoft's profitability, operating margin, net profit margin, and its overall profitability trend.\n\n### **Factual Observations**\n\n**Operating Margin:**\n* **2023-06-30:** 41.77% [MSFT_profitability_001]\n* **2024-06-30:** 44.64% [MSFT_profitability_001]\n* **2025-06-30:** 45.62% [MSFT_profitability_001]\n* **2026-06-30:** 46.78% [MSFT_profitability_001]\n\n**Net Profit Margin:**\n* **2023-06-30:** 34.15% [MSFT_profitability_001]\n* **2024-06-30:** 35.96% [MSFT_profitability_001]\n* **2025-06-30:** 36.15% [MSFT_profitability_001]\n* **2026-06-30:** 40.31% [MSFT_profitability_001]\n\n**Overall Profitability and Income Figures:**\n* For the fiscal period ending 2023-06-30, Microsoft reported a Gross Profit of $146.05 billion, Operating Income of $88.52 billion, and Net Income of $72.36 billion [MSFT_profitability_001].\n* For the fiscal period ending 2024-06-30, Gross Profit was $171.01 billion, Operating Income was $109.43 billion, and Net Income was $88.14 billion [MSFT_profitability_001].\n* For the fiscal period ending 2025-06-30, Gross Profit was $193.89 billion, Operating Income was $128.53 billion, and Net Income was $101.83 billion [MSFT_profitability_001].\n* For the fiscal period ending 2026-06-30, Gross Profit was $225.47 billion, Operating Income was $155.24 billion, and Net Income was $133.75 billion [MSFT_profitability_001].\n* Additional profitability metrics for the latest period (2026-06-30) include an ROA of 19.42% and an ROE of 34.04% [MSFT_latest_fundamentals_001].\n\n---\n\n### **Profitability Trend Analysis**\n* **Operating Margin Trend:** Microsoft's operating margin demonstrated consistent expansion across the four-year period, rising consecutively from 41.77% in fiscal 2023 to 46.78% in fiscal 2026 [MSFT_profitability_001]. \n* **Net Profit Margin Trend:** The net profit margin also showed a consistent upward trajectory over the same timeframe, growing from 34.15% in fiscal 2023 to 40.31% in fiscal 2026, with the most notable jump occurring between 2025 and 2026 [MSFT_profitability_001].\n* **Absolute Income Growth:** Accompanying the margin expansion, Microsoft's absolute earnings grew each year. Operating income nearly doubled from $88.52 billion in 2023 to $155.24 billion in 2026, while net income increased from $72.36 billion to $133.75 billion over the same period [MSFT_profitability_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.6791877746582031,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.6181657910346985,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5911695957183838,
+        "vector_id": 8,
+        "chunk_id": "MSFT_financial_ratios_001",
+        "title": "Financial Ratios",
+        "category": "financial_ratios",
+        "source": "Yahoo Finance",
+        "content": "Financial Ratio Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n- Return on Assets (ROA): Not available\n- Return on Equity (ROE): Not available\n- Debt-to-Equity: 0.29\n- Current Ratio: 1.77\n\nFiscal period ending 2024-06-30:\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n- Return on Assets (ROA): 19.07%\n- Return on Equity (ROE): 37.13%\n- Debt-to-Equity: 0.25\n- Current Ratio: 1.27\n\nFiscal period ending 2025-06-30:\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n- Return on Assets (ROA): 18.00%\n- Return on Equity (ROE): 33.28%\n- Debt-to-Equity: 0.18\n- Current Ratio: 1.35\n\nFiscal period ending 2026-06-30:\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%\n- Return on Assets (ROA): 19.42%\n- Return on Equity (ROE): 34.04%\n- Debt-to-Equity: 0.13\n- Current Ratio: 1.23",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Financial Ratios",
+          "category": "financial_ratios",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_financial_ratios_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5668258666992188,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.541456937789917,
+        "vector_id": 7,
+        "chunk_id": "MSFT_cash_flow_001",
+        "title": "Operating and Free Cash Flow",
+        "category": "cash_flow",
+        "source": "Yahoo Finance",
+        "content": "Cash Flow Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Operating Cash Flow: $87.58 billion\n- Capital Expenditure: $-28.11 billion\n- Free Cash Flow: $59.48 billion\n- Operating Cash Flow Margin: 41.33%\n- Free Cash Flow Margin: 28.07%\n- Cash Conversion Ratio: 1.21\n\nFiscal period ending 2024-06-30:\n- Operating Cash Flow: $118.55 billion\n- Capital Expenditure: $-44.48 billion\n- Free Cash Flow: $74.07 billion\n- Operating Cash Flow Margin: 48.36%\n- Free Cash Flow Margin: 30.22%\n- Cash Conversion Ratio: 1.35\n\nFiscal period ending 2025-06-30:\n- Operating Cash Flow: $136.16 billion\n- Capital Expenditure: $-64.55 billion\n- Free Cash Flow: $71.61 billion\n- Operating Cash Flow Margin: 48.33%\n- Free Cash Flow Margin: 25.42%\n- Cash Conversion Ratio: 1.34\n\nFiscal period ending 2026-06-30:\n- Operating Cash Flow: $182.94 billion\n- Capital Expenditure: $-115.95 billion\n- Free Cash Flow: $66.99 billion\n- Operating Cash Flow Margin: 55.13%\n- Free Cash Flow Margin: 20.19%\n- Cash Conversion Ratio: 1.37",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Operating and Free Cash Flow",
+          "category": "cash_flow",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_cash_flow_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "How have Microsoft's net income and diluted EPS changed over the available fiscal periods?",
+    "answer": "### Factual Observations\n\nBased on the provided evidence, Microsoft's net income and diluted EPS have increased across the available fiscal periods ending June 30, 2023, through June 30, 2026:\n\n* **Fiscal Period Ending 2023-06-30:**\n  * Net Income: $72.36 billion [MSFT_earnings_001, MSFT_profitability_001]\n  * Diluted EPS: 9.68 (Diluted EPS Growth: Not available) [MSFT_earnings_001]\n\n* **Fiscal Period Ending 2024-06-30:**\n  * Net Income: $88.14 billion [MSFT_earnings_001, MSFT_profitability_001]\n  * Diluted EPS: 11.80 (Diluted EPS Growth: 21.90%) [MSFT_earnings_001]\n\n* **Fiscal Period Ending 2025-06-30:**\n  * Net Income: $101.83 billion [MSFT_earnings_001, MSFT_profitability_001]\n  * Diluted EPS: 13.64 (Diluted EPS Growth: 15.59%) [MSFT_earnings_001]\n\n* **Fiscal Period Ending 2026-06-30:**\n  * Net Income: $133.75 billion [MSFT_earnings_001, MSFT_profitability_001, MSFT_latest_fundamentals_001]\n  * Diluted EPS: 17.95 (Diluted EPS Growth: 31.60%) [MSFT_earnings_001, MSFT_latest_fundamentals_001]\n\n### Interpretation\n\n* **Trend Analysis:** Both net income and diluted EPS experienced continuous year-over-year expansion across all reported fiscal periods. Net income grew from $72.36 billion in 2023 to $133.75 billion in 2026, while diluted EPS increased from 9.68 to 17.95 over the same timeframe. \n* **Growth Volatility:** The year-over-year growth rate for diluted EPS fluctuated during this period, registering 21.90% for the 2024 fiscal period, slowing to 15.59% for the 2025 fiscal period, and accelerating to 31.60% for the 2026 fiscal period [MSFT_earnings_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.7185162305831909,
+        "vector_id": 4,
+        "chunk_id": "MSFT_earnings_001",
+        "title": "Earnings and EPS",
+        "category": "earnings",
+        "source": "Yahoo Finance",
+        "content": "Earnings and EPS Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Net Income: $72.36 billion\n- Basic EPS: 9.72\n- Diluted EPS: 9.68\n- Diluted EPS Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Net Income: $88.14 billion\n- Basic EPS: 11.86\n- Diluted EPS: 11.80\n- Diluted EPS Growth: 21.90%\n\nFiscal period ending 2025-06-30:\n- Net Income: $101.83 billion\n- Basic EPS: 13.70\n- Diluted EPS: 13.64\n- Diluted EPS Growth: 15.59%\n\nFiscal period ending 2026-06-30:\n- Net Income: $133.75 billion\n- Basic EPS: 18.00\n- Diluted EPS: 17.95\n- Diluted EPS Growth: 31.60%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Earnings and EPS",
+          "category": "earnings",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_earnings_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.5767190456390381,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5698378086090088,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5586888194084167,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5142884254455566,
+        "vector_id": 7,
+        "chunk_id": "MSFT_cash_flow_001",
+        "title": "Operating and Free Cash Flow",
+        "category": "cash_flow",
+        "source": "Yahoo Finance",
+        "content": "Cash Flow Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Operating Cash Flow: $87.58 billion\n- Capital Expenditure: $-28.11 billion\n- Free Cash Flow: $59.48 billion\n- Operating Cash Flow Margin: 41.33%\n- Free Cash Flow Margin: 28.07%\n- Cash Conversion Ratio: 1.21\n\nFiscal period ending 2024-06-30:\n- Operating Cash Flow: $118.55 billion\n- Capital Expenditure: $-44.48 billion\n- Free Cash Flow: $74.07 billion\n- Operating Cash Flow Margin: 48.36%\n- Free Cash Flow Margin: 30.22%\n- Cash Conversion Ratio: 1.35\n\nFiscal period ending 2025-06-30:\n- Operating Cash Flow: $136.16 billion\n- Capital Expenditure: $-64.55 billion\n- Free Cash Flow: $71.61 billion\n- Operating Cash Flow Margin: 48.33%\n- Free Cash Flow Margin: 25.42%\n- Cash Conversion Ratio: 1.34\n\nFiscal period ending 2026-06-30:\n- Operating Cash Flow: $182.94 billion\n- Capital Expenditure: $-115.95 billion\n- Free Cash Flow: $66.99 billion\n- Operating Cash Flow Margin: 55.13%\n- Free Cash Flow Margin: 20.19%\n- Cash Conversion Ratio: 1.37",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Operating and Free Cash Flow",
+          "category": "cash_flow",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_cash_flow_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "Evaluate Microsoft's debt, cash position and liquidity based on the available financial evidence.",
+    "answer": "Based on the supplied financial evidence, here is an evaluation of Microsoft's debt, cash position, and liquidity:\n\n### Factual Observations\n\n**Cash Position:**\n* **2023-06-30:** Cash position was $111.26 billion with a net cash position of $51.29 billion [MSFT_liquidity_001].\n* **2024-06-30:** Cash position decreased to $75.53 billion, and net cash decreased to $8.40 billion [MSFT_liquidity_001].\n* **2025-06-30:** Cash position rose to $94.56 billion, with net cash increasing to $33.97 billion [MSFT_liquidity_001].\n* **2026-06-30:** Cash position was $76.65 billion, with a net cash position of $19.82 billion [MSFT_liquidity_001, MSFT_latest_fundamentals_001].\n\n**Total Debt and Leverage Ratios:**\n* **Total Debt:** \n  * 2023-06-30: $59.97 billion [MSFT_liquidity_001]\n  * 2024-06-30: $67.13 billion [MSFT_liquidity_001]\n  * 2025-06-30: $60.59 billion [MSFT_liquidity_001]\n  * 2026-06-30: $56.83 billion [MSFT_liquidity_001, MSFT_latest_fundamentals_001]\n* **Debt-to-Equity Ratio:** Decreased steadily from 0.29 in fiscal 2023 to 0.25 in 2024, 0.18 in 2025, and 0.13 in 2026 [MSFT_liquidity_001, MSFT_financial_ratios_001].\n* **Debt-to-Assets Ratio:** Declined from 0.15 in fiscal 2023 to 0.13 in 2024, 0.10 in 2025, and 0.07 in 2026 [MSFT_liquidity_001].\n\n**Liquidity and Current Position:**\n* **Current Assets vs. Current Liabilities:**\n  * 2023-06-30: Current assets of $184.26 billion vs. current liabilities of $104.15 billion [MSFT_liquidity_001].\n  * 2024-06-30: Current assets of $159.73 billion vs. current liabilities of $125.29 billion [MSFT_liquidity_001].\n  * 2025-06-30: Current assets of $191.13 billion vs. current liabilities of $141.22 billion [MSFT_liquidity_001].\n  * 2026-06-30: Current assets of $207.71 billion vs. current liabilities of $168.82 billion [MSFT_liquidity_001].\n* **Current Ratio:** \n  * 2023-06-30: 1.77 [MSFT_liquidity_001, MSFT_financial_ratios_001]\n  * 2024-06-30: 1.27 [MSFT_liquidity_001, MSFT_financial_ratios_001]\n  * 2025-06-30: 1.35 [MSFT_liquidity_001, MSFT_financial_ratios_001]\n  * 2026-06-30: 1.23 [MSFT_liquidity_001, MSFT_financial_ratios_001]\n\n**Cash Flow Support:**\n* Operating cash flow grew from $87.58 billion in 2023 to $182.94 billion in 2026 [MSFT_cash_flow_001].\n* Free cash flow was $59.48 billion in 2023, peaked at $74.07 billion in 2024, and stood at $66.99 billion in 2026 after capital expenditures rose to $115.95 billion [MSFT_cash_flow_001].\n\n---\n\n### Interpretation\n\n* **Debt Management:** Microsoft's reliance on debt relative to its capital structure and asset base decreased consistently from fiscal 2023 to fiscal 2026, as evidenced by the downward trends in both the debt-to-equity ratio (from 0.29 to 0.13) and debt-to-assets ratio (from 0.15 to 0.07) [MSFT_liquidity_001]. Absolute total debt also declined from its 2024 peak of $67.13 billion down to $56.83 billion by fiscal year-end 2026 [MSFT_liquidity_001].\n* **Cash and Net Cash Fluctuations:** While cash positions fluctuated across the observed periods—dropping to $75.53 billion in 2024 before rebounding to $94.56 billion in 2025 and settling at $76.65 billion by 2026—the company maintained a positive net cash position throughout [MSFT_liquidity_001]. Strong operating cash flows, which reached $182.94 billion by 2026, continue to support liquidity despite increasing capital expenditures [MSFT_cash_flow_001].\n* **Liquidity Cushion:** The current ratio remained above 1.0 across all reported fiscal years (ranging from a high of 1.77 in 2023 to 1.23 in 2026), indicating that short-term assets continue to cover short-term obligations, though short-term liquidity cushions compressed compared to the 2023 baseline [MSFT_liquidity_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.7651830911636353,
+        "vector_id": 6,
+        "chunk_id": "MSFT_liquidity_001",
+        "title": "Debt Cash and Liquidity",
+        "category": "liquidity",
+        "source": "Yahoo Finance",
+        "content": "Debt and Liquidity Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Cash Position: $111.26 billion\n- Total Debt: $59.97 billion\n- Net Cash Position: $51.29 billion\n- Current Assets: $184.26 billion\n- Current Liabilities: $104.15 billion\n- Current Ratio: 1.77\n- Debt-to-Equity Ratio: 0.29\n- Debt-to-Assets Ratio: 0.15\n\nFiscal period ending 2024-06-30:\n- Cash Position: $75.53 billion\n- Total Debt: $67.13 billion\n- Net Cash Position: $8.40 billion\n- Current Assets: $159.73 billion\n- Current Liabilities: $125.29 billion\n- Current Ratio: 1.27\n- Debt-to-Equity Ratio: 0.25\n- Debt-to-Assets Ratio: 0.13\n\nFiscal period ending 2025-06-30:\n- Cash Position: $94.56 billion\n- Total Debt: $60.59 billion\n- Net Cash Position: $33.97 billion\n- Current Assets: $191.13 billion\n- Current Liabilities: $141.22 billion\n- Current Ratio: 1.35\n- Debt-to-Equity Ratio: 0.18\n- Debt-to-Assets Ratio: 0.10\n\nFiscal period ending 2026-06-30:\n- Cash Position: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Current Assets: $207.71 billion\n- Current Liabilities: $168.82 billion\n- Current Ratio: 1.23\n- Debt-to-Equity Ratio: 0.13\n- Debt-to-Assets Ratio: 0.07",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Debt Cash and Liquidity",
+          "category": "liquidity",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_liquidity_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.6783043146133423,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.6279854774475098,
+        "vector_id": 8,
+        "chunk_id": "MSFT_financial_ratios_001",
+        "title": "Financial Ratios",
+        "category": "financial_ratios",
+        "source": "Yahoo Finance",
+        "content": "Financial Ratio Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n- Return on Assets (ROA): Not available\n- Return on Equity (ROE): Not available\n- Debt-to-Equity: 0.29\n- Current Ratio: 1.77\n\nFiscal period ending 2024-06-30:\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n- Return on Assets (ROA): 19.07%\n- Return on Equity (ROE): 37.13%\n- Debt-to-Equity: 0.25\n- Current Ratio: 1.27\n\nFiscal period ending 2025-06-30:\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n- Return on Assets (ROA): 18.00%\n- Return on Equity (ROE): 33.28%\n- Debt-to-Equity: 0.18\n- Current Ratio: 1.35\n\nFiscal period ending 2026-06-30:\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%\n- Return on Assets (ROA): 19.42%\n- Return on Equity (ROE): 34.04%\n- Debt-to-Equity: 0.13\n- Current Ratio: 1.23",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Financial Ratios",
+          "category": "financial_ratios",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_financial_ratios_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5972443222999573,
+        "vector_id": 5,
+        "chunk_id": "MSFT_balance_sheet_001",
+        "title": "Assets Liabilities and Equity",
+        "category": "balance_sheet",
+        "source": "Yahoo Finance",
+        "content": "Balance Sheet Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Total Assets: $411.98 billion\n- Total Liabilities: $205.75 billion\n- Stockholders Equity: $206.22 billion\n\nFiscal period ending 2024-06-30:\n- Total Assets: $512.16 billion\n- Total Liabilities: $243.69 billion\n- Stockholders Equity: $268.48 billion\n\nFiscal period ending 2025-06-30:\n- Total Assets: $619.00 billion\n- Total Liabilities: $275.52 billion\n- Stockholders Equity: $343.48 billion\n\nFiscal period ending 2026-06-30:\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Stockholders Equity: $442.39 billion",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Assets Liabilities and Equity",
+          "category": "balance_sheet",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_balance_sheet_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5849102735519409,
+        "vector_id": 7,
+        "chunk_id": "MSFT_cash_flow_001",
+        "title": "Operating and Free Cash Flow",
+        "category": "cash_flow",
+        "source": "Yahoo Finance",
+        "content": "Cash Flow Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Operating Cash Flow: $87.58 billion\n- Capital Expenditure: $-28.11 billion\n- Free Cash Flow: $59.48 billion\n- Operating Cash Flow Margin: 41.33%\n- Free Cash Flow Margin: 28.07%\n- Cash Conversion Ratio: 1.21\n\nFiscal period ending 2024-06-30:\n- Operating Cash Flow: $118.55 billion\n- Capital Expenditure: $-44.48 billion\n- Free Cash Flow: $74.07 billion\n- Operating Cash Flow Margin: 48.36%\n- Free Cash Flow Margin: 30.22%\n- Cash Conversion Ratio: 1.35\n\nFiscal period ending 2025-06-30:\n- Operating Cash Flow: $136.16 billion\n- Capital Expenditure: $-64.55 billion\n- Free Cash Flow: $71.61 billion\n- Operating Cash Flow Margin: 48.33%\n- Free Cash Flow Margin: 25.42%\n- Cash Conversion Ratio: 1.34\n\nFiscal period ending 2026-06-30:\n- Operating Cash Flow: $182.94 billion\n- Capital Expenditure: $-115.95 billion\n- Free Cash Flow: $66.99 billion\n- Operating Cash Flow Margin: 55.13%\n- Free Cash Flow Margin: 20.19%\n- Cash Conversion Ratio: 1.37",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Operating and Free Cash Flow",
+          "category": "cash_flow",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_cash_flow_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "How strong is Microsoft's operating cash flow and free cash flow?",
+    "answer": "Based on the provided financial evidence, here is an analysis of Microsoft's operating cash flow and free cash flow:\n\n### Factual Observations\n* **Operating Cash Flow (OCF) Trend:** \n  * FY 2023: $87.58 billion (OCF Margin: 41.33%, Cash Conversion Ratio: 1.21) [MSFT_cash_flow_001]\n  * FY 2024: $118.55 billion (OCF Margin: 48.36%, Cash Conversion Ratio: 1.35) [MSFT_cash_flow_001]\n  * FY 2025: $136.16 billion (OCF Margin: 48.33%, Cash Conversion Ratio: 1.34) [MSFT_cash_flow_001]\n  * FY 2026: $182.94 billion (OCF Margin: 55.13%, Cash Conversion Ratio: 1.37) [MSFT_cash_flow_001]\n  * Operating cash flow experienced continuous growth across all reported fiscal periods, reaching its peak of $182.94 billion in FY 2026 [MSFT_cash_flow_001].\n\n* **Capital Expenditure (CapEx) Trend:** \n  * FY 2023: $-28.11 billion [MSFT_cash_flow_001]\n  * FY 2024: $-44.48 billion [MSFT_cash_flow_001]\n  * FY 2025: $-64.55 billion [MSFT_cash_flow_001]\n  * FY 2026: $-115.95 billion [MSFT_cash_flow_001]\n  * Capital expenditures increased substantially each year over the four-period span [MSFT_cash_flow_001].\n\n* **Free Cash Flow (FCF) Trend:** \n  * FY 2023: $59.48 billion (FCF Margin: 28.07%) [MSFT_cash_flow_001]\n  * FY 2024: $74.07 billion (FCF Margin: 30.22%) [MSFT_cash_flow_001]\n  * FY 2025: $71.61 billion (FCF Margin: 25.42%) [MSFT_cash_flow_001]\n  * FY 2026: $66.99 billion (FCF Margin: 20.19%) [MSFT_cash_flow_001]\n  * Free cash flow rose from FY 2023 to a peak of $74.07 billion in FY 2024, followed by consecutive declines in FY 2025 ($71.61 billion) and FY 2026 ($66.99 billion) [MSFT_cash_flow_001].\n\n### Interpretation\n* **Operating Cash Flow Strength:** Microsoft's operating cash flow demonstrates sustained and robust upward momentum, expanding by more than 108% from FY 2023 to FY 2026 alongside expanding operating cash flow margins and strong cash conversion ratios above 1.20 [MSFT_cash_flow_001]. \n* **Free Cash Flow Dynamics:** Despite the strong and growing generation of operating cash flow, free cash flow growth has diverged from OCF in the later periods. This divergence is driven by rapidly accelerating capital expenditures (which more than quadrupled from $-28.11 billion in FY 2023 to $-115.95 billion in FY 2026), causing both FCF and FCF margins to contract from their FY 2024 peaks [MSFT_cash_flow_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.6791115403175354,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.6727019548416138,
+        "vector_id": 7,
+        "chunk_id": "MSFT_cash_flow_001",
+        "title": "Operating and Free Cash Flow",
+        "category": "cash_flow",
+        "source": "Yahoo Finance",
+        "content": "Cash Flow Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Operating Cash Flow: $87.58 billion\n- Capital Expenditure: $-28.11 billion\n- Free Cash Flow: $59.48 billion\n- Operating Cash Flow Margin: 41.33%\n- Free Cash Flow Margin: 28.07%\n- Cash Conversion Ratio: 1.21\n\nFiscal period ending 2024-06-30:\n- Operating Cash Flow: $118.55 billion\n- Capital Expenditure: $-44.48 billion\n- Free Cash Flow: $74.07 billion\n- Operating Cash Flow Margin: 48.36%\n- Free Cash Flow Margin: 30.22%\n- Cash Conversion Ratio: 1.35\n\nFiscal period ending 2025-06-30:\n- Operating Cash Flow: $136.16 billion\n- Capital Expenditure: $-64.55 billion\n- Free Cash Flow: $71.61 billion\n- Operating Cash Flow Margin: 48.33%\n- Free Cash Flow Margin: 25.42%\n- Cash Conversion Ratio: 1.34\n\nFiscal period ending 2026-06-30:\n- Operating Cash Flow: $182.94 billion\n- Capital Expenditure: $-115.95 billion\n- Free Cash Flow: $66.99 billion\n- Operating Cash Flow Margin: 55.13%\n- Free Cash Flow Margin: 20.19%\n- Cash Conversion Ratio: 1.37",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Operating and Free Cash Flow",
+          "category": "cash_flow",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_cash_flow_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5897165536880493,
+        "vector_id": 6,
+        "chunk_id": "MSFT_liquidity_001",
+        "title": "Debt Cash and Liquidity",
+        "category": "liquidity",
+        "source": "Yahoo Finance",
+        "content": "Debt and Liquidity Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Cash Position: $111.26 billion\n- Total Debt: $59.97 billion\n- Net Cash Position: $51.29 billion\n- Current Assets: $184.26 billion\n- Current Liabilities: $104.15 billion\n- Current Ratio: 1.77\n- Debt-to-Equity Ratio: 0.29\n- Debt-to-Assets Ratio: 0.15\n\nFiscal period ending 2024-06-30:\n- Cash Position: $75.53 billion\n- Total Debt: $67.13 billion\n- Net Cash Position: $8.40 billion\n- Current Assets: $159.73 billion\n- Current Liabilities: $125.29 billion\n- Current Ratio: 1.27\n- Debt-to-Equity Ratio: 0.25\n- Debt-to-Assets Ratio: 0.13\n\nFiscal period ending 2025-06-30:\n- Cash Position: $94.56 billion\n- Total Debt: $60.59 billion\n- Net Cash Position: $33.97 billion\n- Current Assets: $191.13 billion\n- Current Liabilities: $141.22 billion\n- Current Ratio: 1.35\n- Debt-to-Equity Ratio: 0.18\n- Debt-to-Assets Ratio: 0.10\n\nFiscal period ending 2026-06-30:\n- Cash Position: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Current Assets: $207.71 billion\n- Current Liabilities: $168.82 billion\n- Current Ratio: 1.23\n- Debt-to-Equity Ratio: 0.13\n- Debt-to-Assets Ratio: 0.07",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Debt Cash and Liquidity",
+          "category": "liquidity",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_liquidity_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5828863382339478,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5515635013580322,
+        "vector_id": 8,
+        "chunk_id": "MSFT_financial_ratios_001",
+        "title": "Financial Ratios",
+        "category": "financial_ratios",
+        "source": "Yahoo Finance",
+        "content": "Financial Ratio Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n- Return on Assets (ROA): Not available\n- Return on Equity (ROE): Not available\n- Debt-to-Equity: 0.29\n- Current Ratio: 1.77\n\nFiscal period ending 2024-06-30:\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n- Return on Assets (ROA): 19.07%\n- Return on Equity (ROE): 37.13%\n- Debt-to-Equity: 0.25\n- Current Ratio: 1.27\n\nFiscal period ending 2025-06-30:\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n- Return on Assets (ROA): 18.00%\n- Return on Equity (ROE): 33.28%\n- Debt-to-Equity: 0.18\n- Current Ratio: 1.35\n\nFiscal period ending 2026-06-30:\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%\n- Return on Assets (ROA): 19.42%\n- Return on Equity (ROE): 34.04%\n- Debt-to-Equity: 0.13\n- Current Ratio: 1.23",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Financial Ratios",
+          "category": "financial_ratios",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_financial_ratios_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "What do Microsoft's profitability, return on equity, return on assets, current ratio and debt-to-equity ratio indicate about its fundamentals?",
+    "answer": "Based on the provided financial evidence, here is an analysis of Microsoft's profitability, return on equity, return on assets, current ratio, and debt-to-equity ratio.\n\n### **Factual Observations**\n\n**1. Profitability (Margins)**\n* **Gross Margin:** Stood at 68.92% for 2023, peaked at 69.76% in 2024, slightly decreased to 68.82% in 2025, and registered at 67.94% for the fiscal period ending June 30, 2026 [MSFT_financial_ratios_001].\n* **Operating Margin:** Showed a consistent upward trend over the period, moving from 41.77% in 2023 to 44.64% in 2024, 45.62% in 2025, and reaching 46.78% by 2026 [MSFT_financial_ratios_001].\n* **Net Profit Margin:** Also exhibited consistent growth year-over-year, rising from 34.15% in 2023, to 35.96% in 2024, 36.15% in 2025, and reaching a high of 40.31% in 2026 [MSFT_financial_ratios_001]. (Absolute figures reflect increases from $72.36 billion in net income in 2023 to $133.75 billion in 2026) [MSFT_profitability_001].\n\n**2. Return on Assets (ROA) and Return on Equity (ROE)**\n* **Return on Assets (ROA):** ROA was not available for 2023 [MSFT_financial_ratios_001]. For subsequent periods, it was 19.07% in 2024, 18.00% in 2025, and 19.42% in 2026 [MSFT_financial_ratios_001].\n* **Return on Equity (ROE):** ROE was not available for 2023 [MSFT_financial_ratios_001]. For subsequent periods, it stood at 37.13% in 2024, dropped to 33.28% in 2025, and was 34.04% in 2026 [MSFT_financial_ratios_001].\n\n**3. Current Ratio**\n* The current ratio was 1.77 in 2023, decreased to 1.27 in 2024, rose slightly to 1.35 in 2025, and closed at 1.23 for the period ending June 30, 2026 [MSFT_financial_ratios_001, MSFT_liquidity_001].\n\n**4. Debt-to-Equity Ratio**\n* The debt-to-equity ratio experienced a continuous downward trend over the four-year span, declining from 0.29 in 2023 to 0.25 in 2024, 0.18 in 2025, and reaching 0.13 by 2026 [MSFT_financial_ratios_001, MSFT_liquidity_001].\n\n---\n\n### **Interpretation of Fundamentals**\n\n* **Profitability:** The upward trajectory in operating and net profit margins demonstrates expanding operational efficiency and stronger bottom-line conversion from revenues over the 2023–2026 timeframe, even as gross margins remained relatively stable near 68%–69%.\n* **Return Metrics (ROA & ROE):** The high ROE figures (consistently exceeding 33% from 2024 to 2026) indicate strong generation of net income relative to shareholders' equity. Meanwhile, ROA holding near 18%–19% reflects productive utilization of the company's expanding total asset base ($758.38 billion by 2026) [MSFT_financial_ratios_001, MSFT_balance_sheet_001].\n* **Liquidity:** A current ratio fluctuating between 1.23 and 1.77 indicates that Microsoft maintains adequate short-term assets to cover its short-term obligations, though short-term liquidity cushions narrowed compared to 2023 levels [MSFT_financial_ratios_001, MSFT_liquidity_001].\n* **Leverage / Solvency:** The declining debt-to-equity ratio (dropping from 0.29 to 0.13) points to a conservative capital structure with decreasing reliance on debt financing relative to equity over the analyzed period [MSFT_financial_ratios_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.7028520107269287,
+        "vector_id": 8,
+        "chunk_id": "MSFT_financial_ratios_001",
+        "title": "Financial Ratios",
+        "category": "financial_ratios",
+        "source": "Yahoo Finance",
+        "content": "Financial Ratio Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n- Return on Assets (ROA): Not available\n- Return on Equity (ROE): Not available\n- Debt-to-Equity: 0.29\n- Current Ratio: 1.77\n\nFiscal period ending 2024-06-30:\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n- Return on Assets (ROA): 19.07%\n- Return on Equity (ROE): 37.13%\n- Debt-to-Equity: 0.25\n- Current Ratio: 1.27\n\nFiscal period ending 2025-06-30:\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n- Return on Assets (ROA): 18.00%\n- Return on Equity (ROE): 33.28%\n- Debt-to-Equity: 0.18\n- Current Ratio: 1.35\n\nFiscal period ending 2026-06-30:\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%\n- Return on Assets (ROA): 19.42%\n- Return on Equity (ROE): 34.04%\n- Debt-to-Equity: 0.13\n- Current Ratio: 1.23",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Financial Ratios",
+          "category": "financial_ratios",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_financial_ratios_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.6599332094192505,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.6270954608917236,
+        "vector_id": 6,
+        "chunk_id": "MSFT_liquidity_001",
+        "title": "Debt Cash and Liquidity",
+        "category": "liquidity",
+        "source": "Yahoo Finance",
+        "content": "Debt and Liquidity Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Cash Position: $111.26 billion\n- Total Debt: $59.97 billion\n- Net Cash Position: $51.29 billion\n- Current Assets: $184.26 billion\n- Current Liabilities: $104.15 billion\n- Current Ratio: 1.77\n- Debt-to-Equity Ratio: 0.29\n- Debt-to-Assets Ratio: 0.15\n\nFiscal period ending 2024-06-30:\n- Cash Position: $75.53 billion\n- Total Debt: $67.13 billion\n- Net Cash Position: $8.40 billion\n- Current Assets: $159.73 billion\n- Current Liabilities: $125.29 billion\n- Current Ratio: 1.27\n- Debt-to-Equity Ratio: 0.25\n- Debt-to-Assets Ratio: 0.13\n\nFiscal period ending 2025-06-30:\n- Cash Position: $94.56 billion\n- Total Debt: $60.59 billion\n- Net Cash Position: $33.97 billion\n- Current Assets: $191.13 billion\n- Current Liabilities: $141.22 billion\n- Current Ratio: 1.35\n- Debt-to-Equity Ratio: 0.18\n- Debt-to-Assets Ratio: 0.10\n\nFiscal period ending 2026-06-30:\n- Cash Position: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Current Assets: $207.71 billion\n- Current Liabilities: $168.82 billion\n- Current Ratio: 1.23\n- Debt-to-Equity Ratio: 0.13\n- Debt-to-Assets Ratio: 0.07",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Debt Cash and Liquidity",
+          "category": "liquidity",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_liquidity_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.6238099336624146,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5772372484207153,
+        "vector_id": 5,
+        "chunk_id": "MSFT_balance_sheet_001",
+        "title": "Assets Liabilities and Equity",
+        "category": "balance_sheet",
+        "source": "Yahoo Finance",
+        "content": "Balance Sheet Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Total Assets: $411.98 billion\n- Total Liabilities: $205.75 billion\n- Stockholders Equity: $206.22 billion\n\nFiscal period ending 2024-06-30:\n- Total Assets: $512.16 billion\n- Total Liabilities: $243.69 billion\n- Stockholders Equity: $268.48 billion\n\nFiscal period ending 2025-06-30:\n- Total Assets: $619.00 billion\n- Total Liabilities: $275.52 billion\n- Stockholders Equity: $343.48 billion\n\nFiscal period ending 2026-06-30:\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Stockholders Equity: $442.39 billion",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Assets Liabilities and Equity",
+          "category": "balance_sheet",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_balance_sheet_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "How has Microsoft's stock performed over the historical period in the knowledge base, including return, volatility and drawdown?",
+    "answer": "Based on the supplied financial evidence, Microsoft's stock performance over the historical analysis period (2021-10-07 to 2026-10-06) is characterized by the following factual observations:\n\n* **Starting Closing Price:** $282.98 [MSFT_stock_performance_001]\n* **Ending Closing Price:** $529.30 [MSFT_stock_performance_001]\n* **Total Price Return:** 87.05% (Note: This calculation represents price return and does not assume the reinvestment of dividends) [MSFT_stock_performance_001]\n* **Annualized Price Return:** 13.35% [MSFT_stock_performance_001]\n* **Annualized Volatility:** 28.17% [MSFT_stock_performance_001]\n* **Maximum Drawdown:** -37.15% [MSFT_stock_performance_001]\n\n**Interpretation:**\nOver the 5.00-year historical period, the stock achieved a positive total price return of 87.05% (or an annualized return of 13.35%). This growth occurred alongside an annualized volatility of 28.17% and experienced a peak-to-trough maximum drawdown of -37.15% [MSFT_stock_performance_001].",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.6024249196052551,
+        "vector_id": 9,
+        "chunk_id": "MSFT_stock_performance_001",
+        "title": "Historical Stock Performance",
+        "category": "stock_performance",
+        "source": "Yahoo Finance",
+        "content": "Historical Stock Performance for Microsoft Corporation (MSFT)\n\nAnalysis Period:\n2021-10-07 to 2026-10-06\n\nPeriod Length:\n5.00 years\n\nStarting Closing Price:\n$282.98\n\nEnding Closing Price:\n$529.30\n\nTotal Price Return:\n87.05%\n\nAnnualized Price Return:\n13.35%\n\nAnnualized Volatility:\n28.17%\n\nMaximum Drawdown:\n-37.15%\n\nImportant:\nThe return calculation represents price return and does not assume reinvestment of dividends.",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Historical Stock Performance",
+          "category": "stock_performance",
+          "document_type": "historical_market_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_stock_performance_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.5702266693115234,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5329498648643494,
+        "vector_id": 0,
+        "chunk_id": "MSFT_company_profile_001",
+        "title": "Microsoft Company Profile",
+        "category": "company_profile",
+        "source": "Yahoo Finance",
+        "content": "Company: Microsoft Corporation\nTicker: MSFT\n\nSector: Technology\nIndustry: Software - Infrastructure\nCountry: United States\nCurrency: USD\n\nMarket Capitalization:\n$3,930.34 billion\n\nCurrent Stock Price:\n$529.30\n\n52-Week High:\n$553.72\n\n52-Week Low:\n$349.20\n\nTrailing P/E Ratio:\n29.26\n\nForward P/E Ratio:\n22.35\n\nPrice-to-Book Ratio:\n8.89\n\nTrailing EPS:\n18.09\n\nForward EPS:\n23.68",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Microsoft Company Profile",
+          "category": "company_profile",
+          "document_type": "company_information",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_company_profile_001",
+          "chunk_index": 1,
+          "total_chunks": 2
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5142079591751099,
+        "vector_id": 3,
+        "chunk_id": "MSFT_profitability_001",
+        "title": "Profitability and Margins",
+        "category": "profitability",
+        "source": "Yahoo Finance",
+        "content": "Profitability Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Gross Profit: $146.05 billion\n- Operating Income: $88.52 billion\n- Net Income: $72.36 billion\n- Gross Margin: 68.92%\n- Operating Margin: 41.77%\n- Net Profit Margin: 34.15%\n\nFiscal period ending 2024-06-30:\n- Gross Profit: $171.01 billion\n- Operating Income: $109.43 billion\n- Net Income: $88.14 billion\n- Gross Margin: 69.76%\n- Operating Margin: 44.64%\n- Net Profit Margin: 35.96%\n\nFiscal period ending 2025-06-30:\n- Gross Profit: $193.89 billion\n- Operating Income: $128.53 billion\n- Net Income: $101.83 billion\n- Gross Margin: 68.82%\n- Operating Margin: 45.62%\n- Net Profit Margin: 36.15%\n\nFiscal period ending 2026-06-30:\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Net Income: $133.75 billion\n- Gross Margin: 67.94%\n- Operating Margin: 46.78%\n- Net Profit Margin: 40.31%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Profitability and Margins",
+          "category": "profitability",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_profitability_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5053505897521973,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "What will Microsoft's exact stock price be on December 31, 2030?",
+    "answer": "The retrieved financial evidence is insufficient to answer this question reliably.",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.6689318418502808,
+        "vector_id": 0,
+        "chunk_id": "MSFT_company_profile_001",
+        "title": "Microsoft Company Profile",
+        "category": "company_profile",
+        "source": "Yahoo Finance",
+        "content": "Company: Microsoft Corporation\nTicker: MSFT\n\nSector: Technology\nIndustry: Software - Infrastructure\nCountry: United States\nCurrency: USD\n\nMarket Capitalization:\n$3,930.34 billion\n\nCurrent Stock Price:\n$529.30\n\n52-Week High:\n$553.72\n\n52-Week Low:\n$349.20\n\nTrailing P/E Ratio:\n29.26\n\nForward P/E Ratio:\n22.35\n\nPrice-to-Book Ratio:\n8.89\n\nTrailing EPS:\n18.09\n\nForward EPS:\n23.68",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Microsoft Company Profile",
+          "category": "company_profile",
+          "document_type": "company_information",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_company_profile_001",
+          "chunk_index": 1,
+          "total_chunks": 2
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.6379066705703735,
+        "vector_id": 9,
+        "chunk_id": "MSFT_stock_performance_001",
+        "title": "Historical Stock Performance",
+        "category": "stock_performance",
+        "source": "Yahoo Finance",
+        "content": "Historical Stock Performance for Microsoft Corporation (MSFT)\n\nAnalysis Period:\n2021-10-07 to 2026-10-06\n\nPeriod Length:\n5.00 years\n\nStarting Closing Price:\n$282.98\n\nEnding Closing Price:\n$529.30\n\nTotal Price Return:\n87.05%\n\nAnnualized Price Return:\n13.35%\n\nAnnualized Volatility:\n28.17%\n\nMaximum Drawdown:\n-37.15%\n\nImportant:\nThe return calculation represents price return and does not assume reinvestment of dividends.",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Historical Stock Performance",
+          "category": "stock_performance",
+          "document_type": "historical_market_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_stock_performance_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5378466844558716,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5283730626106262,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.507846474647522,
+        "vector_id": 4,
+        "chunk_id": "MSFT_earnings_001",
+        "title": "Earnings and EPS",
+        "category": "earnings",
+        "source": "Yahoo Finance",
+        "content": "Earnings and EPS Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Net Income: $72.36 billion\n- Basic EPS: 9.72\n- Diluted EPS: 9.68\n- Diluted EPS Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Net Income: $88.14 billion\n- Basic EPS: 11.86\n- Diluted EPS: 11.80\n- Diluted EPS Growth: 21.90%\n\nFiscal period ending 2025-06-30:\n- Net Income: $101.83 billion\n- Basic EPS: 13.70\n- Diluted EPS: 13.64\n- Diluted EPS Growth: 15.59%\n\nFiscal period ending 2026-06-30:\n- Net Income: $133.75 billion\n- Basic EPS: 18.00\n- Diluted EPS: 17.95\n- Diluted EPS Growth: 31.60%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Earnings and EPS",
+          "category": "earnings",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_earnings_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  },
+  {
+    "question": "What was Microsoft's exact advertising expense for the latest fiscal year?",
+    "answer": "The retrieved financial evidence is insufficient to answer this question reliably.",
+    "retrieved_evidence": [
+      {
+        "rank": 1,
+        "similarity_score": 0.5765813589096069,
+        "vector_id": 2,
+        "chunk_id": "MSFT_revenue_growth_001",
+        "title": "Revenue and Revenue Growth",
+        "category": "revenue_growth",
+        "source": "Yahoo Finance",
+        "content": "Revenue Performance Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Revenue: $211.91 billion\n- Revenue Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Revenue: $245.12 billion\n- Revenue Growth: 15.67%\n\nFiscal period ending 2025-06-30:\n- Revenue: $281.72 billion\n- Revenue Growth: 14.93%\n\nFiscal period ending 2026-06-30:\n- Revenue: $331.84 billion\n- Revenue Growth: 17.79%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Revenue and Revenue Growth",
+          "category": "revenue_growth",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_revenue_growth_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 2,
+        "similarity_score": 0.5527307391166687,
+        "vector_id": 4,
+        "chunk_id": "MSFT_earnings_001",
+        "title": "Earnings and EPS",
+        "category": "earnings",
+        "source": "Yahoo Finance",
+        "content": "Earnings and EPS Analysis for Microsoft Corporation (MSFT)\n\nFiscal period ending 2023-06-30:\n- Net Income: $72.36 billion\n- Basic EPS: 9.72\n- Diluted EPS: 9.68\n- Diluted EPS Growth: Not available\n\nFiscal period ending 2024-06-30:\n- Net Income: $88.14 billion\n- Basic EPS: 11.86\n- Diluted EPS: 11.80\n- Diluted EPS Growth: 21.90%\n\nFiscal period ending 2025-06-30:\n- Net Income: $101.83 billion\n- Basic EPS: 13.70\n- Diluted EPS: 13.64\n- Diluted EPS Growth: 15.59%\n\nFiscal period ending 2026-06-30:\n- Net Income: $133.75 billion\n- Basic EPS: 18.00\n- Diluted EPS: 17.95\n- Diluted EPS Growth: 31.60%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Earnings and EPS",
+          "category": "earnings",
+          "document_type": "fundamental_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_earnings_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 3,
+        "similarity_score": 0.5461839437484741,
+        "vector_id": 10,
+        "chunk_id": "MSFT_latest_fundamentals_001",
+        "title": "Latest Fundamental Snapshot",
+        "category": "latest_fundamentals",
+        "source": "Yahoo Finance",
+        "content": "Latest Fundamental Financial Snapshot for Microsoft Corporation (MSFT)\n\nLatest available fiscal period: 2026-06-30\n\n- Revenue: $331.84 billion\n- Revenue Growth %: 17.79%\n- Gross Profit: $225.47 billion\n- Operating Income: $155.24 billion\n- Operating Margin %: 46.78%\n- Net Income: $133.75 billion\n- Net Profit Margin %: 40.31%\n- Diluted EPS: 17.95\n- Diluted EPS Growth %: 31.60%\n- Total Assets: $758.38 billion\n- Total Liabilities: $315.99 billion\n- Cash: $76.65 billion\n- Total Debt: $56.83 billion\n- Net Cash Position: $19.82 billion\n- Operating Cash Flow: $182.94 billion\n- Free Cash Flow: $66.99 billion\n- Current Ratio: 1.23\n- Debt to Equity: 0.13\n- ROA %: 19.42%\n- ROE %: 34.04%",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Latest Fundamental Snapshot",
+          "category": "latest_fundamentals",
+          "document_type": "fundamental_snapshot",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_latest_fundamentals_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      },
+      {
+        "rank": 4,
+        "similarity_score": 0.5350937843322754,
+        "vector_id": 0,
+        "chunk_id": "MSFT_company_profile_001",
+        "title": "Microsoft Company Profile",
+        "category": "company_profile",
+        "source": "Yahoo Finance",
+        "content": "Company: Microsoft Corporation\nTicker: MSFT\n\nSector: Technology\nIndustry: Software - Infrastructure\nCountry: United States\nCurrency: USD\n\nMarket Capitalization:\n$3,930.34 billion\n\nCurrent Stock Price:\n$529.30\n\n52-Week High:\n$553.72\n\n52-Week Low:\n$349.20\n\nTrailing P/E Ratio:\n29.26\n\nForward P/E Ratio:\n22.35\n\nPrice-to-Book Ratio:\n8.89\n\nTrailing EPS:\n18.09\n\nForward EPS:\n23.68",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Microsoft Company Profile",
+          "category": "company_profile",
+          "document_type": "company_information",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_company_profile_001",
+          "chunk_index": 1,
+          "total_chunks": 2
+        }
+      },
+      {
+        "rank": 5,
+        "similarity_score": 0.5290212631225586,
+        "vector_id": 9,
+        "chunk_id": "MSFT_stock_performance_001",
+        "title": "Historical Stock Performance",
+        "category": "stock_performance",
+        "source": "Yahoo Finance",
+        "content": "Historical Stock Performance for Microsoft Corporation (MSFT)\n\nAnalysis Period:\n2021-10-07 to 2026-10-06\n\nPeriod Length:\n5.00 years\n\nStarting Closing Price:\n$282.98\n\nEnding Closing Price:\n$529.30\n\nTotal Price Return:\n87.05%\n\nAnnualized Price Return:\n13.35%\n\nAnnualized Volatility:\n28.17%\n\nMaximum Drawdown:\n-37.15%\n\nImportant:\nThe return calculation represents price return and does not assume reinvestment of dividends.",
+        "metadata": {
+          "ticker": "MSFT",
+          "company": "Microsoft Corporation",
+          "title": "Historical Stock Performance",
+          "category": "stock_performance",
+          "document_type": "historical_market_analysis",
+          "source": "Yahoo Finance",
+          "chunk_id": "MSFT_stock_performance_001",
+          "chunk_index": 1,
+          "total_chunks": 1
+        }
+      }
+    ],
+    "status": "answered"
+  }
+]

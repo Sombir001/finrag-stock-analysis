@@ -1,0 +1,31 @@
+Metric,Available Values,Missing Values,Coverage %
+Revenue,4,0,100.0
+Gross Profit,4,0,100.0
+Operating Income,4,0,100.0
+Net Income,4,0,100.0
+Basic EPS,4,0,100.0
+Diluted EPS,4,0,100.0
+Total Assets,4,0,100.0
+Total Liabilities,4,0,100.0
+Stockholders Equity,4,0,100.0
+Cash,4,0,100.0
+Total Debt,4,0,100.0
+Current Assets,4,0,100.0
+Current Liabilities,4,0,100.0
+Operating Cash Flow,4,0,100.0
+Capital Expenditure,4,0,100.0
+Free Cash Flow,4,0,100.0
+Gross Margin %,4,0,100.0
+Operating Margin %,4,0,100.0
+Debt to Equity,4,0,100.0
+Net Profit Margin %,4,0,100.0
+Current Ratio,4,0,100.0
+Debt to Assets,4,0,100.0
+Cash Conversion,4,0,100.0
+FCF Margin %,4,0,100.0
+Net Cash Position,4,0,100.0
+OCF Margin %,4,0,100.0
+Diluted EPS Growth %,3,1,75.0
+Revenue Growth %,3,1,75.0
+ROA %,3,1,75.0
+ROE %,3,1,75.0

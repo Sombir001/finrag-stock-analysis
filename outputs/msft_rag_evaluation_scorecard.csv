@@ -1,0 +1,9 @@
+Metric,Score,Score (%)
+Retrieval Hit@3,1.0,100.0
+Top-1 Category Accuracy,0.7333333333333333,73.33333333333333
+Mean Reciprocal Rank,0.8666666666666667,86.66666666666667
+Answer Generation Rate,1.0,100.0
+Evidence Return Rate,1.0,100.0
+Citation Presence Rate,1.0,100.0
+Citation Precision,1.0,100.0
+Unsupported Question Guardrail Rate,1.0,100.0

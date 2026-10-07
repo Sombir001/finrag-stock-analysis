@@ -1,0 +1,16 @@
+Question,Expected Categories,Retrieved Categories,Relevant Rank,Hit@3,Reciprocal Rank,Top-1 Category,Top-1 Similarity
+How has Microsoft's revenue changed over time?,revenue_growth,"revenue_growth, latest_fundamentals, earnings",1,True,1.0,revenue_growth,0.6386932134628296
+What is Microsoft's revenue growth trend?,revenue_growth,"revenue_growth, latest_fundamentals, earnings",1,True,1.0,revenue_growth,0.695831298828125
+How profitable is Microsoft?,profitability,"profitability, latest_fundamentals, company_profile",1,True,1.0,profitability,0.6252585649490356
+What are Microsoft's operating and net profit margins?,"profitability, financial_ratios","profitability, latest_fundamentals, financial_ratios",1,True,1.0,profitability,0.724202036857605
+How have Microsoft's earnings and EPS changed?,earnings,"earnings, latest_fundamentals, revenue_growth",1,True,1.0,earnings,0.6517245173454285
+What are Microsoft's total assets and liabilities?,balance_sheet,"balance_sheet, latest_fundamentals, liquidity",1,True,1.0,balance_sheet,0.7100850343704224
+How much debt and cash does Microsoft have?,liquidity,"liquidity, latest_fundamentals, cash_flow",1,True,1.0,liquidity,0.6545091867446899
+How liquid is Microsoft based on its current ratio?,"liquidity, financial_ratios","company_profile, liquidity, latest_fundamentals",2,True,0.5,company_profile,0.521636426448822
+How strong is Microsoft's operating cash flow?,cash_flow,"latest_fundamentals, cash_flow, liquidity",2,True,0.5,latest_fundamentals,0.7007894515991211
+How much free cash flow does Microsoft generate?,cash_flow,"cash_flow, latest_fundamentals, profitability",1,True,1.0,cash_flow,0.665945291519165
+What do Microsoft's ROA and ROE indicate?,financial_ratios,"financial_ratios, latest_fundamentals, earnings",1,True,1.0,financial_ratios,0.5595719814300537
+What is Microsoft's debt-to-equity ratio?,"financial_ratios, liquidity","liquidity, financial_ratios, latest_fundamentals",1,True,1.0,liquidity,0.6558926105499268
+How has Microsoft's stock performed historically?,stock_performance,"latest_fundamentals, stock_performance, company_profile",2,True,0.5,latest_fundamentals,0.6387593150138855
+What were Microsoft's historical return and drawdown?,stock_performance,"stock_performance, latest_fundamentals, revenue_growth",1,True,1.0,stock_performance,0.5273540616035461
+Give me Microsoft's latest fundamental snapshot.,latest_fundamentals,"company_profile, latest_fundamentals, earnings",2,True,0.5,company_profile,0.4401625990867615
